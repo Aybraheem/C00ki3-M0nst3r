@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/C00ki3_M0nst3r.jpg" alt="C00ki3 M0nst3r Logo" width="800">
+  <img src="CookieGrabber/images/C00ki3_M0nst3r.jpg" alt="C00ki3 M0nst3r Logo" width="800">
 </p>
 
 # 🍪 C00ki3 M0nst3r
