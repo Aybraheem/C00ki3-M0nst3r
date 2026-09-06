@@ -43,7 +43,7 @@ CookieGrabber/
 ├── images/                         # Logo and assets
 │   └── C00ki3_Monst3r.jpg          # Project logo
 ├── executables/                    # ⬅️ THE EXE LIVES HERE
-│   └── C00ki3_M0nst3r.exe          # Standalone executable (no Python needed!)
+    └── C00ki3_M0nst3r.exe          # Standalone executable (no Python needed!)
 ```
 
 ---
