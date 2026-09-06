@@ -40,7 +40,6 @@ A standalone Windows tool to extract `sessionid`, `csrftoken`, and `xsrftoken` c
 CookieGrabber/
 ├── script.py                       # Source code for developers and main python script
 ├── requirements.txt                # Dependencies for developers, Contains: browser_cookie3 (only lol)
-├── README.md
 ├── images/                         # Logo and assets
 │   └── C00ki3_Monst3r.jpg          # Project logo
 ├── executables/                    # ⬅️ THE EXE LIVES HERE
